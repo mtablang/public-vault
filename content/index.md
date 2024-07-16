@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Japan Life
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[Places Visited so far]]
+
+[[Tokyo Jouhou 情報]]
